@@ -7,9 +7,8 @@
 
 ## 👥 Authors
 
-| Name | Student Number | Section |
-|------|---------------|---------|
-| Yousef Shanti | 1221137 | 2 |
+| Name 
+| Yousef Shanti 
 
 **Instructors:** Yazan Abu Farha & Samah Alaydi  
 **Date:** 28 / 6 / 2025
