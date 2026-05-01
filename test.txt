@@ -1,0 +1,124 @@
+D2=>{
+test 1 : Naive Bayes Accuracy: 0.56
+Decision Tree Accuracy: 0.72
+Neural Net Accuracy: 0.31
+Confusion Matrix:
+[[24  3  3]
+ [ 4 16  4]
+ [ 6  2 16]]
+
+test 2: Naive Bayes Accuracy: 0.50
+Decision Tree Accuracy: 0.59
+Neural Net Accuracy: 0.44
+Confusion Matrix:
+[[16  5  6]
+ [ 6 20  5]
+ [ 8  2 10]]
+
+test 3 : Naive Bayes Accuracy: 0.59
+Decision Tree Accuracy: 0.67
+Neural Net Accuracy: 0.46
+Confusion Matrix:
+[[26  1  5]
+ [ 4 11  2]
+ [ 6  8 15]]
+
+test 4 : Naive Bayes Accuracy: 0.59
+Decision Tree Accuracy: 0.67
+Neural Net Accuracy: 0.33
+Confusion Matrix:
+[[24  2  5]
+ [ 5 11  4]
+ [ 5  5 17]]
+
+test 5 : Naive Bayes Accuracy: 0.53
+Decision Tree Accuracy: 0.64
+Neural Net Accuracy: 0.36
+Confusion Matrix:
+[[18  1  3]
+ [10 14  6]
+ [ 7  1 18]]
+
+}
+
+DX1=>{
+Naive Bayes Accuracy: 0.40
+Decision Tree Accuracy: 0.56
+Neural Net Accuracy: 0.58
+Confusion Matrix:
+[[827 162   2]
+ [325 204   1]
+ [257  51   2]]
+}
+
+DX2=>{
+Naive Bayes Accuracy: 0.45
+Decision Tree Accuracy: 0.54
+Neural Net Accuracy: 0.52
+Confusion Matrix:
+[[813  64  84]
+ [382 113  57]
+ [252  18  79]]
+}
+
+D all D1+D2+D3=>{test 1:Naive Bayes Accuracy: 0.49
+Decision Tree Accuracy: 0.52
+Neural Net Accuracy: 0.47
+Confusion Matrix:
+[[40 18  4]
+ [13 37 11]
+ [21 19 16]] , test 2 : Naive Bayes Accuracy: 0.47
+Decision Tree Accuracy: 0.52
+Neural Net Accuracy: 0.32
+Confusion Matrix:
+[[32 18  8]
+ [18 39 12]
+ [14 16 22]] , 
+test 3 :Naive Bayes Accuracy: 0.50
+Decision Tree Accuracy: 0.51
+Neural Net Accuracy: 0.34
+Confusion Matrix:
+[[41 19  7]
+ [12 35 13]
+ [20 16 16]]}
+
+D3={Naive Bayes Accuracy: 0.47
+Decision Tree Accuracy: 0.59
+Neural Net Accuracy: 0.38
+Confusion Matrix:
+[[17  5  2]
+ [ 7 16  3]
+ [10  5 14]]} , 
+
+D2 ={Naive Bayes Accuracy: 0.42
+Decision Tree Accuracy: 0.53
+Neural Net Accuracy: 0.45
+Confusion Matrix:
+[[ 9 7
+7]
+[ 7 17 61
+[ 7 3 15]]} ,
+ 
+D2( anther size ) ={Naive Bayes Accuracy: 0.59
+Decision Tree Accuracy: 0.69
+Neural Net Accuracy: 0.62
+Confusion Matrix:
+[[26 7 0]
+[ 6 17 4]
+[6 1 11]]} , 
+
+D1(32x32)={Naive Bayes Accuracy: 0.61
+Decision Tree Accuracy: 0.65
+Neural Net Accuracy: 0.49
+Confusion Matrix:
+[[18  9  5]
+ [ 3 24  4]
+ [ 5  1  8]]} , 
+
+D1(64x64)={Naive Bayes Accuracy: 0.62
+Decision Tree Accuracy: 0.61
+Neural Net Accuracy: 0.51
+Confusion Matrix:
+[[ 20 6 3 ] 
+[ 6 20 4 ]
+[ 5 6 7]]}
